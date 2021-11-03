@@ -1,0 +1,24 @@
+.card-container {
+    padding: 50px 16px;
+
+  }
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    width: 30%;
+}
+
+.card-image{
+    width:250px;
+    height:250px
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-description{
+        align-content: center;
+      padding: 10px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-bottom: 10px;
+  }
